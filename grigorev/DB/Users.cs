@@ -1,4 +1,4 @@
-namespace ghuschyan3rkis.DB
+namespace grigorev3.DB
 {
     using System;
     using System.Collections.Generic;
