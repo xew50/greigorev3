@@ -1,4 +1,4 @@
-namespace ghuschyan3rkis.DB
+namespace grigorev.DB
 {
     using System;
     using System.Data.Entity;
