@@ -1,4 +1,4 @@
-﻿using ghuschyan3rkis.DB;
+﻿using grigorev.DB;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -10,7 +10,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace ghuschyan3rkis
+namespace grigorev
 {
     public partial class Form1 : Form
     {
